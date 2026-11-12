@@ -1,4 +1,12 @@
+# Local Python environments
 .venv/
-__pycache__/
-.ipynb_checkpoints/
+.venv312/
+venv/
+
+# NLTK data downloaded by the notebook
 nltk_data/
+
+# Python cache and Jupyter checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
